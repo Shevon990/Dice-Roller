@@ -1,0 +1,46 @@
+body{
+    background-image: url("High-resolution\ abst.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#button{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:black;
+    background-image: linear-gradient(to right, #AD6B03 , #D48203 , #ED9204, #FA9A04);
+    padding: 0.5%;
+    border: 1cm;
+    margin: 1%;
+    border:none;
+    border-radius:5%;
+    cursor: pointer;
+    font-weight: bold;
+    
+}
+
+#button:hover{
+
+    color : white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: linear-gradient(to right,#6E4302, #AD6B03 , #D48203 , #ED9204);
+    
+
+}
+
+
+#container{
+    text-align: center;
+    font-size : 2.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#num{
+    text-align: center;
+    font-size: 30px;
+}
+
+
+
+
